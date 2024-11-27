@@ -43,15 +43,15 @@ The data dictionary provides detailed information about each field.
 ## Results
 Key observations from the analysis:
 
--- The majority of loans are graded as B and C.
--- Most borrowers have employment lengths between 1 to 10 years.
--- A significant portion of loans have a status of "Fully Paid."
+- The majority of loans are graded as B and C.
+- Most borrowers have employment lengths between 1 to 10 years.
+- A significant portion of loans have a status of "Fully Paid."
 
 ---
 
 ## Technologies Used
 
--- Python: Core programming language.
--- Pandas: For data manipulation and cleaning.
--- Matplotlib & Seaborn: For data visualization.
--- Jupyter Notebook: For documenting and running the analysis interactively.
+- Python: Core programming language.
+- Pandas: For data manipulation and cleaning.
+- Matplotlib & Seaborn: For data visualization.
+- Jupyter Notebook: For documenting and running the analysis interactively.
